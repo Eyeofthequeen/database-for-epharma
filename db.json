@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "drug": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Kadian",
+      "type": "",
+      "concentration": "10mg",
+      "description": "Ce médicament est un analgésique narcotique. Habituellement, on l'utilise pour la douleur. On peut sentir son action en quelques heures.",
+      "quantity": 122,
+      "price", 0.22
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
