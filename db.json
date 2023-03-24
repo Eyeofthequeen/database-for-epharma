@@ -1,11 +1,11 @@
 {
-  "drugs": [
+  "posts": [
     {
       "id": 1,
-      "name": "Kadian",
-      "type": "capsule",
-      "concentration": "10mg",
-      "quantity": 122,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
