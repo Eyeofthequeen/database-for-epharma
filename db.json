@@ -1,48 +1,4 @@
 {
   "drugs": [
-    {
-      "id": 1,
-      "name": "Kadian",
-      "type": "capsule",
-      "concentration": "10mg",
-      "description": "Ce médicament est un analgésique narcotique. Habituellement, on l'utilise pour la douleur. On peut sentir son action en quelques heures.",
-      "quantity": 102,
-      "price": 0.22,
-      "expiration": "2023-01-10",
-      "lot": 123
-    },
-    {
-      "id": 2,
-      "name": "Naloxone",
-      "type": "injectable",
-      "concentration": "10.4 mg/ml",
-      "description": "Ce médicament peut être administré par une personne (témoin, friend ou membre de la famille) afin d'inverser les effets d'une surdose d'opiacés jusqu'à l'arrivée des services médicaux d'urgence. On peut sentir son action en quelques minutes.",
-      "quantity": 0,
-      "price": 2.34,
-      "expiration": "2023-05-10",
-      "lot": 232
-    },
-    {
-      "id": 3,
-      "name": "Zarontin",
-      "type": "capsule",
-      "concentration": "125mg",
-      "description": "",
-      "quantity": 10,
-      "price": 0.67,
-      "expiration": "2023-05-10",
-      "lot": 133
-    },
-    {
-      "id": 4,
-      "name": "Zarontin",
-      "type": "capsule",
-      "concentration": "125mg",
-      "description": "",
-      "quantity": 45,
-      "price": 0.67,
-      "expiration": "2023-10-10",
-      "lot": 125
-    }
   ]
 }
