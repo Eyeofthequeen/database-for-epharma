@@ -1,4 +1,15 @@
 {
   "drugs": [
+    {
+      "id": 1,
+      "name": "Kadian",
+      "type": "capsule",
+      "concentration": "10mg",
+      "description": "Ce médicament est un analgésique narcotique. Habituellement, on l'utilise pour la douleur. On peut sentir son action en quelques heures.",
+      "quantity": 102,
+      "price": 0.22,
+      "expiration": "2023-01-10",
+      "lot": 123
+    },
   ]
 }
