@@ -1,14 +1,7 @@
 {
   "drugs": [
     {
-      "id": 1,
-      "name": "Kadian",
-      "type": "capsule",
-      "concentration": "10mg",
-      "quantity": 102,
-      "price": 0.22,
-      "expiration": "2023-01-10",
-      "lot": 123
+      "id": 1
     }
   ]
 }
