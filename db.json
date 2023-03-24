@@ -8,7 +8,7 @@
       "description": "Ce médicament est un analgésique narcotique. Habituellement, on l'utilise pour la douleur. On peut sentir son action en quelques heures.",
       "quantity": 102,
       "price": 0.22,
-      "expiration": "2020-03-09T22:18:26.625Z"
+      "expiration": '2012-11-01'
     },
     {
       "id": 2,
