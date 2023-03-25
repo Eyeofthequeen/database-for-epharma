@@ -50,7 +50,7 @@
       "number": 123,
       "expiration": "2023-10-10",
       "quantity": 45,
-      "medicament": {
+      "drug": {
         "name": "Zarontin",
         "type": "capsule",
         "concentration": "125mg",
@@ -62,7 +62,7 @@
       "number": 133,
       "expiration": "2023-05-10",
       "quantity": 10,
-      "medicament": {
+      "drug": {
         "name": "Zarontin",
         "type": "capsule",
         "concentration": "125mg",
