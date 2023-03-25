@@ -50,7 +50,7 @@
       "number": 123,
       "expiration": "2023-10-10",
       "quantity": 45,
-      "medicament": {
+      "drug": {
         "id": "1",
         "name": "Zarontin",
         "type": "capsule",
@@ -63,7 +63,7 @@
       "number": 133,
       "expiration": "2023-05-10",
       "quantity": 10,
-      "medicament": {
+      "drug": {
         "id": "2",
         "name": "Zarontin",
         "type": "capsule",
@@ -76,7 +76,7 @@
       "number": 10,
       "expiration": "2023-04-10",
       "quantity": 10,
-      "medicament": {
+      "drug": {
         "id": "3",
         "name": "Naloxone",
         "type": "injectable",
