@@ -44,31 +44,5 @@
       "expiration": "2023-10-10",
       "lot": 125
     }
-  ],
-  "Lots": [
-    {
-      "number": 123,
-      "expiration": "2023-10-10",
-      "quantity": 45
-      "medicament": {
-        "name": "Zarontin",
-        "type": "capsule",
-        "concentration": "125mg",
-        "description": "",
-        "price": 0.67
-      }
-    },
-    {
-      "number": 133,
-      "expiration": "2023-05-10",
-      "quantity": 10
-      "medicament": {
-        "name": "Zarontin",
-        "type": "capsule",
-        "concentration": "125mg",
-        "description": "",
-        "price": 0.67
-      }
-    }
   ]
 }
