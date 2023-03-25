@@ -50,7 +50,8 @@
       "number": 123,
       "expiration": "2023-10-10",
       "quantity": 45,
-      "drug": {
+      "medicament": {
+        "id": "1",
         "name": "Zarontin",
         "type": "capsule",
         "concentration": "125mg",
@@ -62,12 +63,26 @@
       "number": 133,
       "expiration": "2023-05-10",
       "quantity": 10,
-      "drug": {
+      "medicament": {
+        "id": "2",
         "name": "Zarontin",
         "type": "capsule",
         "concentration": "125mg",
         "description": "",
         "price": 0.67
+      }
+    },
+    {
+      "number": 10,
+      "expiration": "2023-04-10",
+      "quantity": 10,
+      "medicament": {
+        "id": "3",
+        "name": "Naloxone",
+        "type": "injectable",
+        "concentration": "10.4 mg/ml",
+        "description": "Ce médicament peut être administré par une personne (témoin, friend ou membre de la famille) afin d'inverser les effets d'une surdose d'opiacés jusqu'à l'arrivée des services médicaux d'urgence. On peut sentir son action en quelques minutes.",
+        "price": 2.34
       }
     }
   ]
