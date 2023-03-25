@@ -32,6 +32,17 @@
       "price": 0.67,
       "expiration": "2023-05-10",
       "lot": 133
+    },
+    {
+      "id": 4,
+      "name": "Zarontin",
+      "type": "capsule",
+      "concentration": "125mg",
+      "description": "",
+      "quantity": 45,
+      "price": 0.67,
+      "expiration": "2023-10-10",
+      "lot": 125
     }
   ]
 }
