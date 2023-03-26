@@ -21,7 +21,7 @@
 	"name": "Zarontin",
 	"type": "capsule",
 	"concentration": "125mg",
-	"description": "",
+	"description": "Ce médicament est habituellement utilisé pour les crises d'absence dans l'épilepsie.",
 	"price": 0.67
     }
   ],
@@ -36,7 +36,7 @@
         "name": "Zarontin",
         "type": "capsule",
         "concentration": "125mg",
-        "description": "",
+        "description": "Ce médicament est habituellement utilisé pour les crises d'absence dans l'épilepsie.",
         "price": 0.67
       }
     },
@@ -50,7 +50,7 @@
         "name": "Zarontin",
         "type": "capsule",
         "concentration": "125mg",
-        "description": "",
+        "description": "Ce médicament est habituellement utilisé pour les crises d'absence dans l'épilepsie.",
         "price": 0.67
       }
     },
