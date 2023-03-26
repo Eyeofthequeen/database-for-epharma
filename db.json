@@ -9,7 +9,7 @@
 	"price": 0.22
     },
     {
-	"id": "3",
+	"id": 3,
 	"name": "Naloxone",
 	"type": "injectable",
 	"concentration": "10.4 mg/ml",
@@ -17,7 +17,7 @@
 	"price": 2.34
     },
     {
-	"id": "2",
+	"id": 2,
 	"name": "Zarontin",
 	"type": "capsule",
 	"concentration": "125mg",
