@@ -31,7 +31,7 @@
       "expiration": "2023-10-10",
       "quantity": 45,
       "drug": {
-        "id": "1",
+        "id": "2",
         "name": "Zarontin",
         "type": "capsule",
         "concentration": "125mg",
