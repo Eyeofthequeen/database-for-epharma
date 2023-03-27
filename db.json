@@ -89,5 +89,27 @@
 		"telephon": "514-323-4553"
 	}
     }
+  ],
+  "Employees": [
+	{
+		"id": 1,
+		"username": "mdavydov1",
+		"firstName": "Miriam",
+		"lastName": "Davydov",
+		"telephon": "514-323-3222",
+		"email": "miriam.davydov@uqtr.ca",
+		"dateOfBirth": "1994-06-02",
+		"hiringDate": "2023-03-27"
+	},
+	{
+		"id": 2,
+		"username": "dsavoir2",
+		"firstName": "Daniel",
+		"lastName": "Savoir",
+		"telephon": "1-800-323-3222",
+		"email": "daniel.savoir@uqtr.ca",
+		"dateOfBirth": "1989-06-02",
+		"hiringDate": "2023-03-15"
+	}
   ]
 }
