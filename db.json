@@ -89,7 +89,8 @@
 		"telephon": "514-323-4553"
 	},
 	"pharmacy": {
-		"name": "Pharmaprix 3212"
+		"name": "Pharmaprix 3212",
+		"email": "pharma3212@email.com"
 	}
     },
     {
@@ -111,7 +112,8 @@
 		"telephon": "514-323-4553"
 	},
 	"pharmacy": {
-		"name": "Pharmaprix 1012"
+		"name": "Pharmaprix 1012",
+		"email": "pharma@email.com"
 	}
     }
   ],
