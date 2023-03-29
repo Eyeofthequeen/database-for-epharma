@@ -87,6 +87,9 @@
 		"firstName": "Jane",
 		"lastName": "Smith",
 		"telephon": "514-323-4553"
+	},
+	"pharmacy": {
+		"name": "Pharmaprix 1012"
 	}
     }
   ],
