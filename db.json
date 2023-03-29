@@ -75,6 +75,28 @@
 	"date": "2023-03-27",
 	"quantity": 12,
 	"drug": {
+		"id": "2",
+		"name": "Zarontin",
+		"type": "capsule",
+		"concentration": "125mg",
+		"description": "Ce médicament est habituellement utilisé pour les crises d'absence dans l'épilepsie.",
+		"price": 0.67
+	},
+	"client": {
+		"email": "janesmith@mail.com",
+		"firstName": "Jane",
+		"lastName": "Smith",
+		"telephon": "514-323-4553"
+	},
+	"pharmacy": {
+		"name": "Pharmaprix 3212"
+	}
+    },
+    {
+	"id": 2,
+	"date": "2023-03-29",
+	"quantity": 10,
+	"drug": {
 		"id": "3",
 		"name": "Naloxone",
 		"type": "injectable",
