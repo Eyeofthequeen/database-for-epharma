@@ -90,7 +90,14 @@
 	},
 	"pharmacy": {
 		"name": "Pharmaprix 3212",
-		"email": "pharma3212@email.com"
+		"email": "pharma3212@email.com",
+		"address": {
+			"line": "2213 rue desforges",
+			"province": "QC",
+			"city": "Trois-Rivières",
+			"postalCode": "G8Z 3N8",
+			"country": "Canada"
+		}
 	}
     },
     {
@@ -113,7 +120,14 @@
 	},
 	"pharmacy": {
 		"name": "Pharmaprix 1012",
-		"email": "pharma@email.com"
+		"email": "pharma@email.com",
+		"address": {
+			"line": "2333 rue champbeau",
+			"province": "QC",
+			"city": "Trois-Rivières",
+			"postalCode": "G8Z 4N3",
+			"country": "Canada"
+		}
 	}
     }
   ],
