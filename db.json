@@ -128,6 +128,12 @@
 			"postalCode": "G8Z 4N3",
 			"country": "Canada"
 		}
+	},
+	"response": {
+		"hasGeneric": 0,
+		"availability": "InStock",
+		"price": 11.2,
+		"comment": "Venir chercher rapidement."
 	}
     }
   ],
