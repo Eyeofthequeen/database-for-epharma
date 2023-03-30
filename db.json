@@ -130,8 +130,8 @@
 		}
 	},
 	"response": {
-		"hasGeneric": 0,
-		"availability": "InStock",
+		"hasGeneric": true,
+		"availability": "inStock",
 		"price": 11.2,
 		"comment": "Venir chercher rapidement."
 	}
